@@ -10,11 +10,11 @@ Description: This Template is created for Youtubers
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:300,400,400italic,700,700italic);
 .bg-primary {
-  background-color: #8119f5 !important;
+  background-color: #06ac98 !important;
 }
 
 .text-primary {
-  color: #8119f5;
+  color: #06ac98;
 }
 
 /* ===================================== Basic CSS ==================================== */
@@ -258,38 +258,38 @@ body {
 }
 
 .btn-primary {
-  background-color: #8119f5;
-  border-color: #8119f5;
+  background-color: #06ac98;
+  border-color: #06ac98;
 }
 .btn-primary:hover {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
 }
 .btn-primary:active {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
 }
 .btn-primary:focus {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
   box-shadow: none !important;
 }
 
 .btn-outline-primary {
-  border-color: #8119f5;
-  color: #8119f5;
+  border-color: #06ac98;
+  color: #06ac98;
 }
 .btn-outline-primary:hover {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
 }
 .btn-outline-primary:active {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
 }
 .btn-outline-primary:focus {
-  background-color: #8119f5 !important;
-  border-color: #8119f5 !important;
+  background-color: #06ac98 !important;
+  border-color: #06ac98 !important;
   box-shadow: none !important;
 }
 
@@ -486,7 +486,7 @@ body {
   font-weight: bolder;
 }
 .head .logo .logo-tag span {
-  color: #8119f5;
+  color: #06ac98;
 }
 .head .logo img {
   max-width: 250px;
